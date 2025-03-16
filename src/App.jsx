@@ -1,5 +1,5 @@
-import Header from "./componentes/Header"
-import Contenido from "./componentes/content/Content"
+import Header from "./Components/Header"
+import Contenido from "./Components/content/Content"
 function App() {
 
   return (
